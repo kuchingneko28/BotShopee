@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vyAxsbuoA2nBjc0eyc0YwW0s3Iv7jptAj5ruwWreHnORFfq2Lr3NDo7IcwYc9FVjIpOURZe7Jej9a8WQtWvh2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KuchingNeko\\BotShopee\\BotShopee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KuchingNeko\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\KuchingNeko\\.nuget\\packages\\selenium.webdriver\\4.0.0-alpha07\\selenium.webdriver.4.0.0-alpha07.nupkg.sha512",
+    "C:\\Users\\KuchingNeko\\.nuget\\packages\\selenium.webdriver.chromedriver\\87.0.4280.8800\\selenium.webdriver.chromedriver.87.0.4280.8800.nupkg.sha512"
+  ],
+  "logs": []
+}
